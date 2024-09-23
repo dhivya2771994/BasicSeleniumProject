@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Test suite" verbose="2" parallel="methods" thread-count="2">
+<test name = "Testng">
+<parameter name = "Browser" value="chrome"></parameter>
+<classes>
+<class name = "com.seleniumproject.testScript.OrangeHCMLoginTest"/>
+</classes>
+</test>
+</suite>
