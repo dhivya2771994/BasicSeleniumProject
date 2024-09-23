@@ -4,8 +4,4 @@
   2024-09-20 14:47:05 INFO  OrangeHCMLoginTest:25 - I click the login button
   2024-09-20 14:47:05 INFO  OrangeHCMLoginTest:27 - I verify the page title
   2024-09-20 15:10:44 INFO  OrangeHCMLoginTest:16 - I launch Orange HRM
-  2024-09-20 15:10:44 INFO  OrangeHCMLoginTest:20 - I enter Username
-  2024-09-20 15:10:44 INFO  OrangeHCMLoginTest:22 - I enter Password
-  2024-09-20 15:10:44 INFO  OrangeHCMLoginTest:24 - I click the login button
-  2024-09-20 15:10:45 INFO  OrangeHCMLoginTest:26 - I verify the page title
   
